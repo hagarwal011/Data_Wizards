@@ -51,9 +51,9 @@ The **Air Performance Dashboard** is an interactive tool designed for the airlin
    - Use insights to make data-driven operational decisions.
 
 ## Acknowledgments 🙌
-- **[Richa]**: Developed the ML model and conducted data analysis.
-- **[Harsh]**: Built and designed the Power BI dashboard.
-- **[Waswi]**: Assisted in data preprocessing.
+- **Richa**: Developed the ML model and conducted data analysis.
+- **Harsh**: Built and designed the Power BI dashboard.
+- **Waswi**: Assisted in data preprocessing.
 
 ## Future Improvements 🚀
 - Integration of real-time data for live monitoring.
