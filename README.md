@@ -1,21 +1,21 @@
 # Data_Wizards
-# Air Performance Dashboard
+# Airline Profitability Prediction
 
-## Overview
-The **Air Performance Dashboard** is an interactive tool designed for the airline industry to monitor and optimize operational efficiency. It provides insights into key factors affecting profitability, including aircraft utilization, maintenance downtime, fuel efficiency, revenue, and operating costs. The dashboard leverages **machine learning models and data visualization techniques** to support decision-making and enhance airline performance.
+# Project Overview
+
+This project aims to predict airline profitability using machine learning techniques based on various operational and financial factors such as flight delays, aircraft utilization, load factor, maintenance downtime, and fuel efficiency. By leveraging historical flight data, the model provides insights that can help airlines optimize their operations and improve profitability. It provides insights into key factors affecting profitability, including aircraft utilization, maintenance downtime, fuel efficiency, revenue, and operating costs. The dashboard leverages **machine learning models and data visualization techniques** to support decision-making and enhance airline performance.
 
 ## Features ✨
 
 ### Data Cleaning & Preprocessing 🔧
 - Identified and handled missing values and duplicates to ensure data integrity.
 - Converted time-based columns into datetime format for accurate analysis.
-- Engineered new features from flight schedules and operational data.
-- Standardized numerical data for improved model performance.
+- Engineered new features from flight schedules.
 - Exported the cleaned dataset for further analysis.
 
 ### Machine Learning Model 🤖
 - **Model Used:** Random Forest Regressor for predicting airline profitability.
-- **Key Metrics Evaluated:** RMSE, MAE, R² score for performance assessment.
+- **Key Metrics Evaluated:** Mean Absolute Error (MAE), Mean Squared Error (MSE), R-squared (R²) score for performance assessment.
 - **Feature Importance Analysis:** Identified critical factors influencing profit.
 
 ### Power BI Dashboard 📊
@@ -42,7 +42,7 @@ The **Air Performance Dashboard** is an interactive tool designed for the airlin
 
 ## How to Use 🚀
 1. **Machine Learning Model**
-   - Run `Ml.ipynb` in Jupyter Notebook to preprocess data and train the model.
+   - Run `Airline_Profit_Predictions.ipynb` in Jupyter Notebook to preprocess data and train the model.
    - Evaluate predictions and analyze feature importance.
 
 2. **Power BI Dashboard**
@@ -50,15 +50,20 @@ The **Air Performance Dashboard** is an interactive tool designed for the airlin
    - Explore different KPIs and filter data as needed.
    - Use insights to make data-driven operational decisions.
 
-## Acknowledgments 🙌
-- **Richa**: Developed the ML model and conducted data analysis.
-- **Harsh**: Built and designed the Power BI dashboard.
-- **Waswi**: Assisted in data preprocessing.
+## Project Files
+- Aviation_KPIs_Dataset.xlsx - Contains the dataset 
+- Airline_Profit_Predictions.ipynb - Jupyter notebooks for EDA and model development and Script to train and evaluate models
+- airline_profit_predictions_full.csv - Contains the updated dataset along with the Predicted Profits
+- Data Wizard.pbix - Dashboard showing insights
 
-## Future Improvements 🚀
-- Integration of real-time data for live monitoring.
-- Advanced predictive modeling for flight scheduling optimization.
-- Enhanced explainability with SHAP values for better decision-making.
+## External Resources
+- Dataset & Large Files: [https://docs.google.com/spreadsheets/d/19en0p7SS_7J9jsp25LVNPxLI9geGhnsj/edit?usp=sharing&ouid=107158980754860428562&rtpof=true&sd=true](url)
+- Presentation Video: [https://drive.google.com/file/d/1Vfe9aZAe-M0msqERG8GUOXKwtRpuZMdQ/view?usp=sharing](url)
+
+## Acknowledgments 🙌
+- **Richa**: [https://github.com/RichaKumari225](url)
+- **Harsh**: [https://github.com/hagarwal011](url)
+- **Waswi**: [https://github.com/Waswichinchkhede12](url)
 
 ---
 This project aims to empower airline operators with **data-driven insights** to maximize profitability and operational efficiency. ✈️📈
