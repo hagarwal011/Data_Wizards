@@ -57,13 +57,13 @@ This project aims to predict airline profitability using machine learning techni
 - Data Wizard.pbix - Dashboard showing insights
 
 ## External Resources
-- Dataset & Large Files: [https://docs.google.com/spreadsheets/d/19en0p7SS_7J9jsp25LVNPxLI9geGhnsj/edit?usp=sharing&ouid=107158980754860428562&rtpof=true&sd=true](url)
-- Presentation Video: [https://drive.google.com/file/d/1Vfe9aZAe-M0msqERG8GUOXKwtRpuZMdQ/view?usp=sharing](url)
+- Dataset & Large Files: [Click Here](https://docs.google.com/spreadsheets/d/19en0p7SS_7J9jsp25LVNPxLI9geGhnsj/edit?usp=sharing&ouid=107158980754860428562&rtpof=true&sd=true)
+- Presentation Video: [Click Here](https://drive.google.com/file/d/1Vfe9aZAe-M0msqERG8GUOXKwtRpuZMdQ/view?usp=sharing)
 
 ## Acknowledgments 🙌
-- **Richa**: [https://github.com/RichaKumari225](url)
-- **Harsh**: [https://github.com/hagarwal011](url)
-- **Waswi**: [https://github.com/Waswichinchkhede12](url)
+- **Richa**: [RichaKumari225](https://github.com/RichaKumari225)
+- **Harsh**: [hagarwal011](https://github.com/hagarwal011)
+- **Waswi**: [Waswichinchkhede12](https://github.com/Waswichinchkhede12)
 
 ---
 This project aims to empower airline operators with **data-driven insights** to maximize profitability and operational efficiency. ✈️📈
